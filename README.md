@@ -4,8 +4,6 @@
 
 ---
 
-Scoreboard
-
 ## Features
 
 - Animated scoreboard
@@ -14,6 +12,6 @@ Scoreboard
 
 
 ## DMCA Protection Certificate
-![image](https://i.imgur.com/ZKgaF7B.png)
+![image](https://cdn.discordapp.com/attachments/1045063739738705940/1045111801622298714/image.png)
 
 ##### Copyright © 2022 Malibú Tech. All rights reserved.
